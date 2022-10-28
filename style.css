@@ -1,0 +1,30 @@
+.bg-img1 {
+  background-size: cover;
+  background-image: url(https://topshare.vn/wp-content/uploads/2020/06/anh-dep-3d-thien-nhien-ho-nuoc-trong.jpg);
+  background-repeat: no-repeat;
+  /* background-size: 100%; */
+  width: 100%;
+  height: 705px;
+}
+.bg-img2 {
+  /* background-color: #000; */
+  background-size: cover;
+  background-image: url(https://topshare.vn/wp-content/uploads/2020/06/anh-dep-3d-thien-nhien-giot-nuoc.jpg);
+  background-repeat: no-repeat;
+  /* background-size: 100%; */
+  width: 100%;
+  height: 705px;
+}
+.bg-img3 {
+  background-size: cover;
+  background-image: url(./img/3.jpg);
+  background-repeat: no-repeat;
+  /* background-size: 100%; */
+  width: 100%;
+  height: 705px;
+}
+#myCarousel {
+  margin-top: 56px;
+  height: 500px;
+  top: auto;
+}
